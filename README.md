@@ -11,8 +11,11 @@ Demostrar cómo aplicar el algoritmo A* en un contexto de recomendación, modela
 Cada producto tiene:
 
 -nombre
+
 -categoría
+
 -probabilidad de conversión
+
 
 El grafo conecta cada producto con todos los demás.
 
